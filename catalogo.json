@@ -1,0 +1,220 @@
+[
+  {
+    "id": "quatre-saisons",
+    "nombre": "Quatre-saisons",
+    "descripcion": "15 a 18 lirios, 3 a 4 hortensias y follaje a elección.",
+    "precio": 300,
+    "imagenes": [
+      "Quatre-saisons1.png",
+      "Quatre-saisons2.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "velours",
+    "nombre": "Velours",
+    "descripcion": "15 a 18 lirios y follaje a elección.",
+    "precio": 250,
+    "imagenes": [
+      "Velours1.png",
+      "Velours2.png",
+      "Velours3.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "rosee",
+    "nombre": "Rosée",
+    "descripcion": "12 rosas y follaje a elección.",
+    "precio": 125,
+    "imagenes": [
+      "Rosee1.png",
+      "Rosee2.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "ardeur",
+    "nombre": "Ardeur",
+    "descripcion": "24 rosas y follaje a elección.",
+    "precio": 150,
+    "imagenes": [
+      "Ardeur1.png",
+      "Ardeur2.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "magnifique",
+    "nombre": "Magnifique",
+    "descripcion": "36 rosas y follaje a elección.",
+    "precio": 175,
+    "imagenes": [
+      "Magnifique1.png",
+      "Magnifique2.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "opulence",
+    "nombre": "Opulence",
+    "descripcion": "10 girasoles, 10 lirios y follaje a elección.",
+    "precio": 250,
+    "imagenes": [
+      "Opulence.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "lumina",
+    "nombre": "Lumina",
+    "descripcion": "3 girasoles, 10 rosas y follaje a elección.",
+    "precio": 150,
+    "imagenes": [],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": ""
+  },
+  {
+    "id": "elixir",
+    "nombre": "Elixir",
+    "descripcion": "Arreglo en oasis envuelto en una botella a elección.",
+    "precio": 150,
+    "imagenes": [],
+    "sala": "florale",
+    "etiqueta": "Bouquet floral",
+    "sufijo": " + botella"
+  },
+  {
+    "id": "custom",
+    "nombre": "Custom",
+    "descripcion": "Un ramo personalizado para contar tu propia historia. Cotiza tu composición.",
+    "precio": null,
+    "imagenes": [
+      "Custom.png"
+    ],
+    "sala": "florale",
+    "etiqueta": "A tu medida",
+    "sufijo": ""
+  },
+  {
+    "id": "camaritas",
+    "nombre": "Camaritas florales",
+    "descripcion": "Camaritas de bloques tipo LEGO con detalles florales.",
+    "precio": 50,
+    "imagenes": [
+      "Camaritas.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "macetitas",
+    "nombre": "Macetitas florales",
+    "descripcion": "Pequeñas macetas florales de bloques tipo LEGO.",
+    "precio": 50,
+    "imagenes": [
+      "Macetitas.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "marquitos",
+    "nombre": "Marquitos florales",
+    "descripcion": "Cuadritos florales de bloques tipo LEGO.",
+    "precio": 50,
+    "imagenes": [
+      "Marquitos.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "minibouquets",
+    "nombre": "Minibouquets",
+    "descripcion": "Pequeños ramos tejidos en crochet.",
+    "precio": 30,
+    "imagenes": [
+      "Minibouquets.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "ceramicas",
+    "nombre": "Florecitas de cerámica",
+    "descripcion": "Flores individuales de cerámica.",
+    "precio": 20,
+    "imagenes": [
+      "Ceramicas.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "llaveros",
+    "nombre": "Llaveros florales",
+    "descripcion": "Un detalle floral para llevar contigo.",
+    "precio": 15,
+    "imagenes": [
+      "Llaveros.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "pines",
+    "nombre": "Pines florales",
+    "descripcion": "Pequeñas flores para personalizar tus accesorios.",
+    "precio": 15,
+    "imagenes": [
+      "Pines.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": " / unidad"
+  },
+  {
+    "id": "collar",
+    "nombre": "Collar de girasol",
+    "descripcion": "Un girasol para llevar cerca.",
+    "precio": 50,
+    "imagenes": [
+      "Collar.png"
+    ],
+    "sala": "mini",
+    "etiqueta": "Detalle floral",
+    "sufijo": ""
+  },
+  {
+    "id": "tulipes",
+    "nombre": "Tulipes",
+    "descripcion": "10 tulipanes. Flores de temporada; consulta disponibilidad y colores.",
+    "precio": 220,
+    "imagenes": [
+      "Tulipes.png"
+    ],
+    "sala": "temporada",
+    "etiqueta": "De temporada",
+    "sufijo": ""
+  }
+]

@@ -78,26 +78,6 @@
     "sufijo": ""
   },
   {
-    "id": "lumina",
-    "nombre": "Lumina",
-    "descripcion": "3 girasoles, 10 rosas y follaje a elección.",
-    "precio": 150,
-    "imagenes": [],
-    "sala": "florale",
-    "etiqueta": "Bouquet floral",
-    "sufijo": ""
-  },
-  {
-    "id": "elixir",
-    "nombre": "Elixir",
-    "descripcion": "Arreglo en oasis envuelto en una botella a elección.",
-    "precio": 150,
-    "imagenes": [],
-    "sala": "florale",
-    "etiqueta": "Bouquet floral",
-    "sufijo": " + botella"
-  },
-  {
     "id": "custom",
     "nombre": "Custom",
     "descripcion": "Un ramo personalizado para contar tu propia historia. Cotiza tu composición.",

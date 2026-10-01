@@ -92,8 +92,8 @@
   {
     "id": "camaritas",
     "nombre": "Camaritas florales",
-    "descripcion": "Camaritas de bloques tipo LEGO con detalles florales.",
-    "precio": 50,
+    "descripcion": "Camaritas de bloques tipo LEGO con detalles florales. (6.5cm x 6cm)",
+    "precio": 35,
     "imagenes": [
       "Camaritas.png"
     ],
@@ -104,8 +104,8 @@
   {
     "id": "macetitas",
     "nombre": "Macetitas florales",
-    "descripcion": "Pequeñas macetas florales de bloques tipo LEGO.",
-    "precio": 50,
+    "descripcion": "Pequeñas macetas florales de bloques tipo LEGO. (9cm x 5cm)",
+    "precio": 35,
     "imagenes": [
       "Macetitas.png"
     ],
@@ -116,8 +116,8 @@
   {
     "id": "marquitos",
     "nombre": "Marquitos florales",
-    "descripcion": "Cuadritos florales de bloques tipo LEGO.",
-    "precio": 50,
+    "descripcion": "Cuadritos florales de bloques tipo LEGO. (8cm x 5cm)",
+    "precio": 35,
     "imagenes": [
       "Marquitos.png"
     ],
@@ -128,8 +128,8 @@
   {
     "id": "minibouquets",
     "nombre": "Minibouquets",
-    "descripcion": "Pequeños ramos tejidos en crochet.",
-    "precio": 30,
+    "descripcion": "Pequeños ramos tejidos en crochet. (15cm de alto)",
+    "precio": 25,
     "imagenes": [
       "Minibouquets.png"
     ],
@@ -141,7 +141,7 @@
     "id": "ceramicas",
     "nombre": "Florecitas de cerámica",
     "descripcion": "Flores individuales de cerámica.",
-    "precio": 20,
+    "precio": 15,
     "imagenes": [
       "Ceramicas.png"
     ],
